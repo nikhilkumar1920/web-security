@@ -1,0 +1,29 @@
+body {
+  width: 260px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  background: #f2f4f7;
+}
+
+h2 {
+  text-align: center;
+  color: #1e3799;
+}
+
+.box {
+  background: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
+
+p {
+  font-size: 14px;
+}
+
+footer {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 8px;
+  color: gray;
+}
